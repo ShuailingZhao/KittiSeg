@@ -25,4 +25,4 @@ bash scripts/test.sh
 + 
 ## Coding Reference
 + [KittiSeg](https://github.com/MarvinTeichmann/KittiSeg#kittiseg)
-+ [model](百度网盘->工作->测试数据->KittiSegModel.tar.gz)
++ 百度网盘->工作->测试数据->KittiSegModel.tar.gz
